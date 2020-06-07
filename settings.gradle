@@ -1,0 +1,3 @@
+rootProject.name='UnitTimerAPI'
+include ':app'
+include ':unittimer_api'
