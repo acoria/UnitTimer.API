@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UnitTimerAPI.iml" filepath="$PROJECT_DIR$/UnitTimerAPI.iml" group="UnitTimerAPI" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="UnitTimerAPI/app" />
+      <module fileurl="file://$PROJECT_DIR$/unittimer_api/unittimer_api.iml" filepath="$PROJECT_DIR$/unittimer_api/unittimer_api.iml" group="UnitTimerAPI/unittimer_api" />
+    </modules>
+  </component>
+</project>
