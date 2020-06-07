@@ -23,6 +23,7 @@ build/
 
 # Github properties
 /github.properties
+github.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
